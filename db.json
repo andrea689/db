@@ -213,7 +213,7 @@
     {
       "id": 1,
       "name": "Whiskers",
-      "image_url": "https://raw.githubusercontent.com/andrea689/flutter_course/main/cats/1.jpg",
+      "image_url": "https://raw.githubusercontent.com/andrea689/db/main/cats/1.jpg",
       "owner": {
         "name": "John",
         "surname": "Doe",
@@ -223,7 +223,7 @@
     {
       "id": 2,
       "name": "Mittens",
-      "image_url": "https://raw.githubusercontent.com/andrea689/flutter_course/main/cats/2.jpg",
+      "image_url": "https://raw.githubusercontent.com/andrea689/db/main/cats/2.jpg",
       "owner": {
         "name": "Jane",
         "surname": "Smith",
@@ -233,7 +233,7 @@
     {
       "id": 3,
       "name": "Luna",
-      "image_url": "https://raw.githubusercontent.com/andrea689/flutter_course/main/cats/3.jpg",
+      "image_url": "https://raw.githubusercontent.com/andrea689/db/main/cats/3.jpg",
       "owner": {
         "name": "Robert",
         "surname": "Johnson",
@@ -243,7 +243,7 @@
     {
       "id": 4,
       "name": "Simba",
-      "image_url": "https://raw.githubusercontent.com/andrea689/flutter_course/main/cats/4.jpg",
+      "image_url": "https://raw.githubusercontent.com/andrea689/db/main/cats/4.jpg",
       "owner": {
         "name": "Emily",
         "surname": "Davis",
@@ -253,7 +253,7 @@
     {
       "id": 5,
       "name": "Oreo",
-      "image_url": "https://raw.githubusercontent.com/andrea689/flutter_course/main/cats/5.jpg",
+      "image_url": "https://raw.githubusercontent.com/andrea689/db/main/cats/5.jpg",
       "owner": {
         "name": "Alex",
         "surname": "Brown",
@@ -263,7 +263,7 @@
     {
       "id": 6,
       "name": "Chloe",
-      "image_url": "https://raw.githubusercontent.com/andrea689/flutter_course/main/cats/6.jpg",
+      "image_url": "https://raw.githubusercontent.com/andrea689/db/main/cats/6.jpg",
       "owner": {
         "name": "Sophia",
         "surname": "Miller",
@@ -273,7 +273,7 @@
     {
       "id": 7,
       "name": "Shadow",
-      "image_url": "https://raw.githubusercontent.com/andrea689/flutter_course/main/cats/7.jpg",
+      "image_url": "https://raw.githubusercontent.com/andrea689/db/main/cats/7.jpg",
       "owner": {
         "name": "David",
         "surname": "Wilson",
@@ -283,7 +283,7 @@
     {
       "id": 8,
       "name": "Bella",
-      "image_url": "https://raw.githubusercontent.com/andrea689/flutter_course/main/cats/8.jpg",
+      "image_url": "https://raw.githubusercontent.com/andrea689/db/main/cats/8.jpg",
       "owner": {
         "name": "Emma",
         "surname": "Taylor",
@@ -293,7 +293,7 @@
     {
       "id": 9,
       "name": "Oliver",
-      "image_url": "https://raw.githubusercontent.com/andrea689/flutter_course/main/cats/9.jpg",
+      "image_url": "https://raw.githubusercontent.com/andrea689/db/main/cats/9.jpg",
       "owner": {
         "name": "Ava",
         "surname": "Anderson",
@@ -303,7 +303,7 @@
     {
       "id": 10,
       "name": "Milo",
-      "image_url": "https://raw.githubusercontent.com/andrea689/flutter_course/main/cats/10.jpg",
+      "image_url": "https://raw.githubusercontent.com/andrea689/db/main/cats/10.jpg",
       "owner": {
         "name": "Michael",
         "surname": "White",
