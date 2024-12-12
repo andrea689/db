@@ -1,6 +1,6 @@
 # Ecommerce - Esame finale
 
-Un importante committente ha richiesto la realizzazione di un’app che permetta di visualizzare il catalogo dei propri prodotti
+Un importante committente ha richiesto la realizzazione di un’app che permetta di visualizzare il catalogo dei propri prodotti.
 
 Sarà necessario sviluppare una pagina per mostrare la lista di tutti i prodotti, ed una pagina per mostrare il dettaglio di ogni prodotto.
 
@@ -53,7 +53,7 @@ Per il superamento dell'esame sono richiesti:
 
 Inoltre è considerato un plus:
 
-- l'utilizzo delle API per ottenere lista e dettaglio degli hotels
+- l'utilizzo delle API per ottenere lista e dettaglio dei prodotti
 
 ## Consegna
 
