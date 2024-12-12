@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "main_photo": "https://m.media-amazon.com/images/I/51YI+VmAsqL._AC_UF1000,1000_QL80_.jpg",
+        "name": "Auricolari Wireless X20",
+        "short_description": "Auricolari wireless con lunga autonomia.",
+        "price": 79.99
+    },
+    {
+        "id": 2,
+        "main_photo": "https://m.media-amazon.com/images/I/71I7pXglIyL._AC_UF1000,1000_QL80_.jpg",
+        "name": "Zaino Trekking Explorer 50L",
+        "description": "Zaino resistente e spazioso da 50 litri, ideale per escursioni e trekking. Dotato di cinghie regolabili, tasche multiple e materiale impermeabile.",
+        "short_description": "Zaino trekking da 50 litri impermeabile.",
+        "price": 59.90
+    },
+    {
+        "id": 3,
+        "main_photo": "https://m.media-amazon.com/images/I/81Gg4G2RMjL._AC_UF1000,1000_QL80_.jpg",
+        "name": "Macchina del Caffè Espresso Pro",
+        "description": "Macchina per caffè espresso compatta con serbatoio da 1 litro, controllo della temperatura e funzione cappuccino. Include 10 capsule in omaggio.",
+        "short_description": "Macchina per caffè compatta e versatile.",
+        "price": 129.99
+    },
+    {
+        "id": 4,
+        "main_photo": "https://m.media-amazon.com/images/I/61jH8k37xQL._AC_UF1000,1000_QL80_.jpg",
+        "name": "Smartwatch FitBand X5",
+        "description": "Smartwatch con monitoraggio della salute, contapassi, GPS integrato e durata della batteria di 10 giorni. Compatibile con Android e iOS.",
+        "short_description": "Smartwatch con GPS e monitoraggio salute.",
+        "price": 99.90
+    }
+]

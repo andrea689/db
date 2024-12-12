@@ -1,0 +1,12 @@
+
+{
+    "id": 3,
+    "main_photo": "https://m.media-amazon.com/images/I/81Gg4G2RMjL._AC_UF1000,1000_QL80_.jpg",
+    "name": "Macchina del Caffè Espresso Pro",
+    "description": "Macchina per caffè espresso compatta con serbatoio da 1 litro, controllo della temperatura e funzione cappuccino. Include 10 capsule in omaggio.",
+    "price": 129.99,
+    "vote_average": 4.5,
+    "category": "Casa e cucina",
+    "stock_quantity": 0,
+    "brand": "CoffeeMaster"
+}

@@ -1,0 +1,12 @@
+
+{
+    "id": 4,
+    "main_photo": "https://m.media-amazon.com/images/I/61jH8k37xQL._AC_UF1000,1000_QL80_.jpg",
+    "name": "Smartwatch FitBand X5",
+    "description": "Smartwatch con monitoraggio della salute, contapassi, GPS integrato e durata della batteria di 10 giorni. Compatibile con Android e iOS.",
+    "price": 99.90,
+    "vote_average": 4.7,
+    "category": "Tecnologia indossabile",
+    "stock_quantity": 200,
+    "brand": "TechLife"
+}
