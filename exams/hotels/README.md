@@ -7,13 +7,13 @@ Sarà necessario sviluppare una pagina per mostrare la lista di tutti gli hotels
 Il committente ha fornito due API, una per ottenere la lista degli hotel:
 
 ```
-GET https://raw.githubusercontent.com/andrea689/flutter_course/main/exams/hotels/hotels
+GET https://raw.githubusercontent.com/andrea689/db/main/exams/hotels/hotels
 ```
 
 Ed un'altra API per ottenere le camere del singolo hotel avente id `<HOTEL_ID>`:
 
 ```
-GET https://raw.githubusercontent.com/andrea689/flutter_course/main/exams/hotels/hotel_details/<HOTEL_ID>
+GET https://raw.githubusercontent.com/andrea689/db/main/exams/hotels/hotel_details/<HOTEL_ID>
 ```
 
 ## Pagina 1 - Lista hotels
